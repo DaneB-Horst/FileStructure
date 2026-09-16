@@ -164,7 +164,7 @@ Imported files are automatically sorted into folders based on extension:
 | Type        | Extensions                                    |
 | ----------- | --------------------------------------------- |
 | Images      | png, jpg, jpeg, tif, tiff, psd, gif, bmp, exr |
-| Video       | mp4, mov, avi, mxf, mkv, webm                 |
+| Video       | mp4, mov, avi, mxf, mkv, webm, braw           |
 | Audio       | mp3, wav, aif, aiff, ogg                      |
 | Vector      | svg                                           |
 | Illustrator | ai                                            |
